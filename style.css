@@ -1,0 +1,26 @@
+
+.navbar{
+    background-color: aqua;
+    width: auto;
+}
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 30px 10px 30px;
+}
+
+.logo{
+    width: 120px;
+    margin: 10px 30px 10px 50px;
+}
+
+.navbar ul li{
+    display: inline-block;
+    margin-right: 25px;
+    margin-top: 0px;
+    padding: 10px 30px 10px 30px;
+    border: 2px solid;
+    align-items: center;
+}
